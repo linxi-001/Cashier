@@ -1,5 +1,17 @@
 # 安卓餐饮收银
 项目采用uniapp开发，屏幕自适应，支持快餐和桌台。支持线上会员、实体卡、充值、商品建档、交班、订单、退款、改价、小票打印等
+Gitee地址：https://gitee.com/linxixiaogege/cashier
+>小技巧：如果您看不到下面的图片，这是因为DNS污染了，即无法访问存放了github图片素材的raw.githubusercontent.com站点，Windows系统你可以修改“C:\Windows\System32\drivers\etc”路径下的hosts文件，在文件末尾添加上如下代码：
+    //hosts文件
+
+    185.199.108.133   raw.githubusercontent.com
+    185.199.109.133   raw.githubusercontent.com
+    185.199.110.133   raw.githubusercontent.com
+    185.199.111.133   raw.githubusercontent.com
+    2606：50c0:8000::154 raw.githubusercontent.com
+    2606：50c0:8001::154 raw.githubusercontent.com
+    2606：50c0:8002::154 raw.githubusercontent.com
+    2606：50c0:8003::154 raw.githubusercontent.com
 
 ##  一、项目说明
 
