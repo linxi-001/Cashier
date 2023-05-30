@@ -56,8 +56,6 @@ Gitee地址：https://gitee.com/linxixiaogege/cashier
 
 ![image-20230530103030085](https://github.com/linxi-001/Cashier/blob/main/data/image-20230530103030085.png)
 
-![image-20230530103237186](https://github.com/linxi-001/Cashier/blob/main/data/image-20230530103237186.png)
-
 ![image-20230530150701523](https://github.com/linxi-001/Cashier/blob/main/data/image-20230530150701523.png)
 
 ![image-20230530103149980](https://github.com/linxi-001/Cashier/blob/main/data/image-20230530103149980.png)
