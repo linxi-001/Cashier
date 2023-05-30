@@ -31,7 +31,7 @@
 
 ## 二、系统截图
 
-![image-20230530102555036](C:\Users\22343\AppData\Roaming\Typora\typora-user-images\image-20230530102555036.png)
+![contents](https://github.com/linxi-001/Cashier/blob/main/data/image-20230530102555036.png)
 
 ![image-20230530102718572](C:\Users\22343\AppData\Roaming\Typora\typora-user-images\image-20230530102718572.png)
 
