@@ -31,24 +31,24 @@
 
 ## 二、系统截图
 
-![contents](https://github.com/linxi-001/Cashier/blob/main/data/image-20230530102555036.png)
+![image-20230530102555036](https://github.com/linxi-001/Cashier/blob/main/data/image-20230530102555036.png)
 
-![image-20230530102718572](C:\Users\22343\AppData\Roaming\Typora\typora-user-images\image-20230530102718572.png)
+![image-20230530102718572](https://github.com/linxi-001/Cashier/blob/main/data/image-20230530102718572.png)
 
-![image-20230530102830838](C:\Users\22343\AppData\Roaming\Typora\typora-user-images\image-20230530102830838.png)
+![image-20230530102830838](https://github.com/linxi-001/Cashier/blob/main/data/image-20230530102830838.png)
 
-![image-20230530102853452](C:\Users\22343\AppData\Roaming\Typora\typora-user-images\image-20230530102853452.png)
+![image-20230530102853452](https://github.com/linxi-001/Cashier/blob/main/data/image-20230530102853452.png)
 
-![image-20230530103011613](C:\Users\22343\AppData\Roaming\Typora\typora-user-images\image-20230530103011613.png)
+![image-20230530103011613](https://github.com/linxi-001/Cashier/blob/main/data/image-20230530103011613.png)
 
-![image-20230530103030085](C:\Users\22343\AppData\Roaming\Typora\typora-user-images\image-20230530103030085.png)
+![image-20230530103030085](https://github.com/linxi-001/Cashier/blob/main/data/image-20230530103030085.png)
 
-![image-20230530103050038](C:\Users\22343\AppData\Roaming\Typora\typora-user-images\image-20230530103050038.png)
+![image-20230530103050038](https://github.com/linxi-001/Cashier/blob/main/data/image-20230530103050038.png)
 
-![image-20230530103111803](C:\Users\22343\AppData\Roaming\Typora\typora-user-images\image-20230530103111803.png)
+![image-20230530103111803](https://github.com/linxi-001/Cashier/blob/main/data/image-20230530103111803.png)
 
-![image-20230530103149980](C:\Users\22343\AppData\Roaming\Typora\typora-user-images\image-20230530103149980.png)
+![image-20230530103149980](https://github.com/linxi-001/Cashier/blob/main/data/image-20230530103149980.png)
 
-![image-20230530103206491](C:\Users\22343\AppData\Roaming\Typora\typora-user-images\image-20230530103206491.png)
+![image-20230530103206491](https://github.com/linxi-001/Cashier/blob/main/data/image-20230530103206491.png)
 
-![image-20230530103237186](C:\Users\22343\AppData\Roaming\Typora\typora-user-images\image-20230530103237186.png)
+![image-20230530103237186](https://github.com/linxi-001/Cashier/blob/main/data/image-20230530103237186.png)
